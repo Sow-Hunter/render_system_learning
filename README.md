@@ -1,7 +1,7 @@
 # render_system_learning
 
 ## 原色系统
-[原色]https://zh.wikipedia.org/wiki/%E5%8E%9F%E8%89%B2
+[原色](https://zh.wikipedia.org/wiki/%E5%8E%9F%E8%89%B2)
 RGB和CMYK是两种不同的三原色系统,产生的原因有以下几点:
 1. 影响模式的介质不同
 RGB用于电子设备如电脑屏幕,这种加色混色方式称为发光混色。
